@@ -1,12 +1,12 @@
 # Portifolio web page
---
 
-in this web site you will find information about the dev and his skills and project and you can contact him!
 
---
+In this web site you will find information about the dev and his skills and project and you can contact him!
 
-##features Used
---
+
+
+## features Used
+
 - Responsive layout (mobile-friendly)
 
 - Navigation menu with Ionicons
@@ -18,19 +18,20 @@ in this web site you will find information about the dev and his skills and proj
 - Smooth scrolling and basic animations (via JS)
 
 - Clean, modern UI with consistent styling
---
-##Technologies used
 
-+html
-+css
-+js
-+[Ionicons](https://ionic.io/ionicons) (via CDN)
-+Visual Studio Code
-+Git & GitHub
 
---
+## Technologies used
 
-##Project Structure
++ html
++ css
++ js
++ [Ionicons](https://ionic.io/ionicons) (via CDN)
++ Visual Studio Code
++ Git & GitHub
+
+
+
+## Project Structure
 
 ```plaintext
 
